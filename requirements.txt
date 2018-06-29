@@ -1,0 +1,6 @@
+Box2D-kengz==2.3.3
+gym==0.10.5
+matplotlib==2.2.2
+numpy==1.14.5
+torch==0.4.0
+tqdm==4.23.4
